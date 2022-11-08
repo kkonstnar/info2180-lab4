@@ -1,0 +1,45 @@
+body
+{
+    background-color: lightblue;
+}
+header
+{
+    display: flex;
+    background-color: blue;
+    color: white;
+    justify-content: center;
+    align-items: center;
+    height: 80px;
+}
+input
+{
+    width: 500px;
+    height: 30px;
+}
+button
+{
+    border: 1px solid black;
+    border-radius: 5px;
+    background-color: red;
+    height: 40px;
+    width: 120px;
+    font-size: 20px;
+    color: white;
+}
+h3
+{
+    font-size: 25px;
+}
+div h3
+{
+    margin-bottom: 0px;
+}
+h4{
+    margin-top: 0px;
+    font-size: 20px;
+}
+h5
+{
+    color: red;
+    font-size: 18px;
+}
